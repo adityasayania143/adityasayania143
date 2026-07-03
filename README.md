@@ -25,13 +25,13 @@
 ## 🔑 About Me
 
 ```python
-class Aditya:
-    name       = "Aditya Sayania"
-    institute  = "RMS Polytechnic | GTU"
-    goal       = "B.E. via DDCET 2025 🎯"
-    location   = "Surat, Gujarat, India 🇮🇳"
-    interests  = ["Coding", "Problem Solving", "Engineering"]
-    currently  = "Cracking DDCET & leveling up every day"
+Class Aditya:
+    Name       = "Aditya Sayania"
+    Institute  = "RMS Polytechnic | GTU"
+    Goal       = "B.E. via DDCET 2025 🎯"
+    Location   = "Surat, Gujarat, India 🇮🇳"
+    Interests  = ["Coding", "Problem Solving", "Engineering"]
+    Currently  = "Cracking DDCET & leveling up every day"
 
     def greet(self):
         return "Hey! Welcome to Aditya Sayania — let's build something great."
