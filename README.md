@@ -34,7 +34,7 @@ class Aditya:
     currently  = "Cracking DDCET & leveling up every day"
 
     def greet(self):
-        return "Hey! Welcome to MasterKey — let's build something great."
+        return "Hey! Welcome to Aditya Sayania — let's build something great."
 ```
 
 ---
